@@ -27,15 +27,15 @@ Call gem
 
 Create an instance of the main class `Main`
 
-```main = Main.new```
+```main = Main.start_game```
 
 run `start` method
 
-```main.start```
+```Main.new.start```
 
 Or simply
 
-```Main.new.start```
+```Main.start_game.new.start```
 
 ## Development
 
